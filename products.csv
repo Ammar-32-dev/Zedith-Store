@@ -1,0 +1,11 @@
+id,name,description,price,image_url,category
+1,Classic Hoodie,Soft cotton hoodie in various colors,39.99,https://unsplash.com/photos/a-man-in-a-friday-hoodie-poses-for-a-picture-aeNyM3wvlvs,Clothing
+2,Ceramic Mug,11oz printed coffee mug,12.99,https://unsplash.com/photos/white-ceramic-mug-on-wooden-table-top-n42ogaQn32o,Accessories
+3,Wireless Earbuds,Noise-cancelling Bluetooth earbuds,49.99,https://unsplash.com/photos/black-and-white-headphones-on-white-table-6V5vTuoeCZg,Electronics
+4,Notebook Set,3-pack of minimal notebooks,9.99,https://unsplash.com/photos/three-notebooks-sitting-next-to-each-other-on-a-table-R2ffCkYlpJ8,Stationery
+5,Eco Water Bottle,"BPA-free, reusable bottle",15,https://unsplash.com/photos/black-and-silver-tube-on-green-leaves-FMca-mmHh2U,Accessories
+6,Minimal T-shirt,100% cotton tee with a clean design,25.5,https://unsplash.com/photos/a-man-standing-in-front-of-a-white-wall-v5MKyCTw7rY,Clothing
+7,Wooden Desk Lamp,Adjustable lamp made from reclaimed wood,79,https://unsplash.com/photos/a-wooden-table-with-a-lamp-on-top-of-it-so0ZCH54b-4,Home Decor
+8,Canvas Backpack,Stylish and durable canvas material,59.95,https://unsplash.com/photos/a-black-bag-on-grass-GeGdEAo7g30,Accessories
+9,Laptop Stand,Aluminum stand for better posture,35,https://unsplash.com/photos/black-laptop-computer-on-table-5ByGxKD5Q8I,Electronics
+10,Scented Candle,Hand-poured with essential oils,18.25,https://unsplash.com/photos/person-holding-lighted-candle-near-green-plant-OAW0OCLn52I,Home Decor
